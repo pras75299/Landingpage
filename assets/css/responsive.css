@@ -1,0 +1,147 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : onepageboss
+Template Name: Tourlover - Travel agency landing page Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    .logo {
+        text-align: center;
+    }
+    .single-blog img {
+        width: 100%;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .project-idea h2,
+    .project-idea p {
+        font-size: 22px;
+    }
+    .single-project-complete {
+        margin-top: 30px;
+    }
+    .about-text {
+        margin-top: 50px;
+    }
+    .section-title p {
+        padding: 0;
+    }
+    .single-contact {
+        text-align: center;
+    }
+    .contact-icon {
+        float: none;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .menu-bg .navbar-collapse {}
+    .welcome-image-area,
+    .welcome-video-area {
+        padding-top: 120px;
+    }
+    .welcome-image-area h2,
+    .single-slide-item h2,
+    .welcome-video-area h2,
+    .about-text h2,
+    .call-to-area-text h2 {
+        font-size: 50px;
+    }
+    .slider-control {
+        display: none;
+    }
+    a.slide-btn {
+        font-size: 12px;
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .footer-social-link {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .single-testimonial {
+        padding: 0;
+    }
+    .video-area-text {
+        margin-top: 50px;
+    }
+    .footer-social-link {
+        text-align: center;
+    }
+    .scrollup {
+        height: 40px;
+        width: 40px;
+        line-height: 35px;
+    }
+    .header-text {
+        margin-top: 10px;
+    }
+    .footer-text h6 {
+        font-size: 12px;
+    }
+    .footer-area {
+        padding: 50px 0px;
+    }
+    .section-padding {
+        padding: 40px 0px;
+    }
+    .single-testimonial {
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .single-contact-details {
+        margin-bottom: 30px;
+    }
+    .header-text p {
+        padding: 0;
+    }
+    .single-testi-des {
+        padding: 10px;
+    }
+    .logo, .menu-bg .logo {
+        padding-top: 5px;
+        text-align: center;
+    }
+    .tour-info ul {
+        text-align: center;
+    }
+    .tour-info, .menu-bg .tour-info{
+        padding-top: 3px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+
+/*
+* ----------------------------------------------------------------------------------------
+Author       : onepageboss
+Template Name: Tourlover - Travel agency landing page Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
